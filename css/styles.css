@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+header{
+    background-color: aquamarine;
+    width: 100%;
+}
+.logo{
+    display: flex;
+}
+.barra{
+    display: flex;
+    justify-content: space-between;
+}
+.enlaces{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+.navegador{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
